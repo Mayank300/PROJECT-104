@@ -1,0 +1,105 @@
+--------•--------
+•for mean 
+
+    1, 2, 3, 4, 5
+
+    sum = 1+2+3+4+5
+        = 15
+
+    total number of observations = 5
+
+    mean = sum of all observations / number of observations
+
+    mean = 15/5
+         = 3
+
+--------x--------
+
+--------•--------
+•for median
+    
+    •for odd observations
+
+        122, 23, 74, 939 , 10000
+
+        write in assending or descending order:
+
+            23, 74, 122, 939, 10000
+
+        total number of observations = 5 (odd)
+
+        median = (n+1) / 2
+
+        median = (5+1)/2
+               = 3^rd number
+
+        ∞ median = 122
+
+
+
+    • for even observations
+        
+        12, 54, 23, 67, 87, 22
+
+        write in assending or descending order:
+
+            12, 22, 23, 54, 67, 87
+
+        total number of observations = 6 (even)
+
+        median = (n)/2 & (n/2)+1
+
+        median = (n)/2
+               = 6/2
+               = 3 rd observations
+               
+               = (n+1)/2
+               = (6/2)+1
+               = 4 th observations
+
+        ∞ median = (23+54)/2
+                 = 38.5
+
+--------x--------
+
+--------•--------
+
+•for mode
+
+    • appears most frequently
+
+        9 ,2, 2, 2, 3, 4 ,5 , 6, 6 
+
+        write in assending or descending order:
+
+            2, 2, 2, 3, 4 , 5, 6, 6, 9
+
+        ∞ number appears most frequently is:
+
+            2
+        ∞ mode = 2
+
+
+
+    • not appears most frequently
+
+        4, 3, 2, 1, 5, 8, 6, 7, 9
+
+        write in assending or descending order:
+
+            1, 2, 3, 4, 5, 6, 7, 8, 9
+
+        * since there is no number that appears most frequently
+        
+        SO,
+            
+        ∞ mode = 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+--------x--------
+
+
+
+        
+
+
+
